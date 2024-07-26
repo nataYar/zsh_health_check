@@ -1,0 +1,1 @@
+Check CPU usage, disk space, memory usage, battery status, network connectivity, system temperatures, memory-consuming processes, active network interfaces, available software updates, running services.
